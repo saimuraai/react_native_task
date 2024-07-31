@@ -1,0 +1,20 @@
+current directory: /Users/iraxtech/my_task/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/iraxtech/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/iraxtech/my_task/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240731-6765-nn6xfw sitelibdir\=./.gem.20240731-6765-nn6xfw clean
+
+current directory: /Users/iraxtech/my_task/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240731-6765-nn6xfw sitelibdir\=./.gem.20240731-6765-nn6xfw
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/iraxtech/my_task/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240731-6765-nn6xfw sitelibdir\=./.gem.20240731-6765-nn6xfw install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240731-6765-nn6xfw
+
+current directory: /Users/iraxtech/my_task/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240731-6765-nn6xfw sitelibdir\=./.gem.20240731-6765-nn6xfw clean
